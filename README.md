@@ -1,37 +1,112 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wale Bade
-=================================================================================================================================
+# QA Engineer Portfolio
 
-QA Engineer
------------
+Welcome to my GitHub portfolio! I am **Wale Oyebade**, a QA Engineer and Test Automation Engineer passionate about delivering high-quality software through meticulous testing and continuous improvement. This README serves as an overview of my professional background, skills, and projects.
 
-I am an experienced professional with over 5 years of combined experience in management, customer service, and testing - automation and manual, working in an Agile Scrum software development environment. I am skilled in designing, and executing comprehensive test plans, implementing automated testing, collaborating with development teams, and analyzing software metrics to identify areas for improvement. I possess strong communication and organizational abilities, with proficiencies in Software Development Life Cycle, Software Testing Life Cycle, Bug life cycle, Test Pyramid, Functional Testing, Non-Functional Testing, Regression Testing, API Testing, and User Acceptance Testing.
+---
 
-* 🌍  I'm based in Finland
-* ✉️  You can contact me at [walebade2003@yahoo.com](mailto:walebade2003@yahoo.com)
-* 🧠  I'm learning Docker
-* 🤝  I'm open to collaborating on Testing Projects
-* ⚡  I make music
+## 👨‍💻 About Me
 
-### Skills
+I bring a wealth of experience in both **manual and automated testing**, with proficiency in industry-standard tools like **Selenium**, **Cucumber BDD**, **Postman**, and more. My expertise spans Agile and Scrum environments, CI/CD pipelines, and cloud technologies like **AWS** and **Kubernetes**. With programming skills in **Java**, **Python**, and **JavaScript**, I specialize in creating efficient and effective test strategies that ensure software excellence.
 
+🔗 **LinkedIn**: [Wale Oyebade](https://www.linkedin.com/in/olawaleoyebade/)  
+📧 **Email**: walebade2003@yahoo.com  
+📞 **Phone**: +358417236768  
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-</p>
+---
 
+## 🛠️ Technical Skills
 
-### Socials
+### Testing Tools and Frameworks
+- **Automation**: Selenium, Cypress, Robot Framework, Postman, Cucumber (BDD)
+- **Manual Testing**: API Testing, UI Testing, Regression Testing, Functional Testing
+- **Test Management**: Jira, X-ray, Zephyr, TestRail
 
-<p align="left"> <a href="https://www.github.com/walebade" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/olawaleoyebade" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Programming & Scripting
+- **Languages**: Java, Python, JavaScript
+- **Databases**: MySQL
 
-### Badges
+### CI/CD & Cloud
+- **CI/CD Tools**: Jenkins, GitLab CI/CD, AWS CI/CD
+- **Cloud Platforms**: AWS
+- **Containerization**: Docker, Kubernetes
 
-<b>My GitHub Stats</b>
+### Other Tools
+- **Version Control**: Git, GitHub
+- **IDEs**: IntelliJ IDEA, PyCharm, Visual Studio Code
 
-<a href="http://www.github.com/walebade"><img src="https://github-readme-stats.vercel.app/api?username=walebade&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="walebade's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/walebade"><img src="https://github-readme-streak-stats.herokuapp.com/?user=walebade&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 📂 Work Experience
 
-<a href="http://www.github.com/walebade"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=walebade&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### **Software Automation Engineer**  
+**Ray Global Digital | Finland** (June 2024 – Present)  
+- Developed automated test scripts for regression, functional, and performance testing.  
+- Designed and executed end-to-end tests for gaming platforms.  
+- Implemented CI/CD pipelines, increasing release efficiency.  
 
-<a href="https://github.com/walebade" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walebade&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Tools & Frameworks**: Selenium, Appium, TestNG, Jira, AWS Device Farm  
+
+---
+
+### **Software Test Engineer**  
+**Attendo | Finland** (February 2024 – May 2024)  
+- Validated healthcare application functionalities across web and mobile platforms.  
+- Supported automation scripts in Python and Selenium.  
+- Conducted comprehensive regression and API testing.  
+
+**Tools & Frameworks**: Python, Robot Framework, Selenium, Jira X-ray  
+
+---
+
+### **QA Engineer**  
+**Bibi’s Food Delivery Services Ltd. | Finland** (January 2021 – December 2023)  
+- Ensured platform quality for food delivery applications.  
+- Integrated automated tests into CI/CD pipelines using Jenkins.  
+- Conducted API and performance testing to enhance scalability during peak traffic.  
+
+**Tools & Frameworks**: Postman, Python, Jenkins, BrowserStack  
+
+---
+
+## 🎓 Education & Certifications
+
+### **Education**  
+- **Micro-Degree in Cloud and Cybersecurity** – Kajaani University of Applied Sciences, September 2024  
+- **Degree in ICT (Software Automation)** – Metropolia University of Applied Sciences, May 2024  
+- **Degree in International Business (HR Management)** – Haaga-Helia University of Applied Sciences, June 2019  
+
+### **Certifications**  
+- AWS Tools to Develop, Run, and Modernize .NET Workloads (March 2024)  
+- AWS Managed Services (AMS): Advanced Self-Service Reporting (March 2024)  
+
+---
+
+## 🏆 Key Achievements
+- **Increased test coverage** by implementing automation, reducing manual testing efforts.  
+- Integrated **Agile methodologies**, improving team collaboration and software delivery.  
+- Enhanced system performance during peak usage through robust testing strategies.  
+- Developed comprehensive **regression test suites** for mission-critical features.  
+
+---
+
+## 📈 Projects
+### **Game Testing Automation**
+- Automated functional and performance tests for a language learning gaming platform.
+- Tools: Selenium, Appium, AWS Device Farm.
+
+### **Healthcare Application Testing**
+- Designed test plans to ensure application reliability for healthcare management.
+- Tools: Robot Framework, Python, Selenium.
+
+### **Food Delivery Platform**
+- Integrated API tests into CI/CD pipelines, improving deployment efficiency.
+- Tools: Postman, Jenkins, BrowserStack.
+
+---
+
+## 🤝 Let's Collaborate!
+Feel free to explore my repositories for insights into my testing and automation expertise. If you'd like to discuss opportunities or projects, reach out via [LinkedIn](https://www.linkedin.com/in/olawaleoyebade/) or email me at **walebade2003@yahoo.com**.
+
+---
+
+**Thank you for visiting my profile!** 🚀
